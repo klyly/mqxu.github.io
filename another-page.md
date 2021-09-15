@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Another page
 description: This is just another page
 date: 2021-09-16

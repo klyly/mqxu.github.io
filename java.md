@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Java基础语法
 description: Java基础语法
 date: 2021-09-16
