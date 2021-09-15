@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 关于我
 description: 关于我页面
 date: 2021-09-15
