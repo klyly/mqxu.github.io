@@ -1,4 +1,10 @@
-##  mqxu的博客
+---
+layout: default
+title: 我的主页
+show_downloads: true
+---
+
+## mqxu 的博客
 
 You can use the [editor on GitHub](https://github.com/mqxu/mqxu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,7 +18,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
-
-
+```
