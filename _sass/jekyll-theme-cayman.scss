@@ -128,9 +128,10 @@ a {
 }
 
 .project-name {
-  margin-top: 0.1rem;
+  margin-top: 5rem;
+  margin-left: 20rem;
   margin-bottom: 0.1rem;
-  color: #588FB2;
+  color: #588fb2;
 
   @include large {
     font-size: 3.25rem;
@@ -147,8 +148,9 @@ a {
 
 .project-tagline {
   margin-bottom: 2rem;
+  margin-left: 20rem;
   font-weight: normal;
-  color: #588FB2;
+  color: #588fb2;
   opacity: 0.7;
 
   @include large {
