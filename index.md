@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 我的主页
+title: MQXU BLOG
 ---
 
-## mqxu 的博客
+## 我的文章列表
 
 - [Link to another page](./another-page.html)
 - [Link to about page](./about.html)
