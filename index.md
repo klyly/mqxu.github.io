@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 我的主页
-downloads: true
 ---
 
 ## mqxu 的博客
